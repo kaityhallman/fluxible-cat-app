@@ -1,0 +1,28 @@
+[
+  {
+    "user": "TabbyCat",
+    "type": "text",
+    "message": "Stay pawsitive.",
+    "id": 1
+  },
+  {
+    "user": "NorwegianMountainCat",
+    "type": "text",
+    "message": "Looking good, feline good.",
+    "id": 2
+  },
+  {
+    "user": "TuxedoCat",
+    "type": "image",
+    "url": "https://placekitten.com/g/300/300",
+    "caption": "Purrformance Review",
+    "message": "It's time for your purrformance review.",
+    "id": 3
+  },
+  {
+    "user": "CalicoCat",
+    "type": "text",
+    "message": "These puns are beyond awful... they're cat-astrophic.",
+    "id": 4
+  }
+]
